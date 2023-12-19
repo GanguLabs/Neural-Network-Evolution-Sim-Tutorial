@@ -1,5 +1,7 @@
 # Neural-Network-Tutorial
 
+Reference Youtube Playlist: [Evolution Simulator in Unity with Neural Network](https://www.youtube.com/playlist?list=PLlIPoiD-ZBaw9x3NRoquGkFBl9RpAasys)
+
 Setting Up the Scene
 1. Create a floor: Add a plane or any other appropriate GameObject to act as the floor for the simulation. This is where the creatures and food will spawn.
 
